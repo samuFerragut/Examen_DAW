@@ -10,3 +10,13 @@ Al cargar la imágen lo primero que se comprueba es si es una imagen, es decir, 
 La podemos recuperar en la carpeta uploads, que es donde se guardan las imágenes al subirlas, ya que en la base de datos solo tenemos guardado el nombre de la imágen a la que se le hace referencia.
 
 **6) En el código del CRUD orientado a objetos, el script para crear productos permite incluir una imágen del producto, pero una vez insertado, no se puede actualizar. Modifica el código para que también se pueda actualizar la imágen de un producto. Explica los cambios realizados.**
+
+### Nombre del Servidor
+
+<http://samu.hopto.org/html/>
+O
+<http://samu.hopto.org/html/ejercicios/Examen_DAW/>
+
+### Localización del repo
+
+<https://github.com/samuFerragut/Examen_DAW>
